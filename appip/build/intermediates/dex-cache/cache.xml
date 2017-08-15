@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_584d7c957d04077ea120c58945e1b4aa133c3de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.facebook.android-facebook-android-sdk-4.5.0_def2746763cff1260834b8512361a858f202522e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\internal_impl-24.1.1_4ec562a0d8a3b0f866b9c82d3c78668fc746f799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_150a36597effa603afdf391c3489de99e0666c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\libs\maps.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7d8f7d00f7e80a23eb7c750ea657cc95c227962">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\maps_dc8c3ec66e7a5d41825a8e3037b8d9ff6cd02654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-10.0.1_3ecd31096a0ff073b92958231e0a2ea996850b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmitriy\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_339ee1dfb2c1943b20925f91d9d25f85d0aa3e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4056fae17885367d1e156562c0dd71083edaa07c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_1af514100f86a5920b6417b8d726d5d28326f9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-design-24.1.1_5aaf378309cbfb2e5b840ff106efafcda03846a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-10.0.1_839ec01745261d8d493d67192b3ca091b130327e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-10.0.1_317fa91256fe97422a4527e3a12292c208211ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmitriy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\bolts-android-1.2.0_67f7dc7d9c4cea689a18b1eaccf34275fc068eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.1.1_b0cacd163f629b26adc9b1aeab0050033931165e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.1.1_c5df6c041abdf60552a7ff51c96274364acfe752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-10.0.1_d294f1f49843e726a8b382582d346e31685da8b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.1.1_2c6cb28868c1369ca64e1e18ea14406f56a2ea1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_7e8bb50e779b13820f9b6571d44c9cec5b6a870e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_e0e474fe4a7b4e1efbc07be63c1304d5170815d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-10.0.1_e0e474fe4a7b4e1efbc07be63c1304d5170815d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_3ccf4486985a1bb0284335efe1aa508e2be3b7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.1.1_a942ae817a07a5422de7ed80ad469126827c0bed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\libs\jsoup-1.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\jsoup-1.10.1_fefb20d685a6c1eac82be3f640ad85eb1c76995f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_5fb490e0b295b9c162469879407dde4b239c9b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.maps.android-android-maps-utils-0.4.4_7be0f1db21f169aea9f335f06b9245fe6df4a447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-10.0.1_282d90ccaa8b8180861df40d8509db901a1eade6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_4ec562a0d8a3b0f866b9c82d3c78668fc746f799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_87166986efa9a2aa475467f29554500edbcb405f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\de.hdodenhof-circleimageview-2.1.0_584d7c957d04077ea120c58945e1b4aa133c3de6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-10.0.1_c61e8eb9debf7b078d4154d0d8b53a108735784d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-10.0.1_150a36597effa603afdf391c3489de99e0666c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-10.0.1_ad002622df04b81c2ced49d602b01cec06f35a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_004f23107e0ed7d1fcfce216a9d5a645b663a4d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\libs\maps.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7d8f7d00f7e80a23eb7c750ea657cc95c227962">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\maps_dc8c3ec66e7a5d41825a8e3037b8d9ff6cd02654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05073660bdbe7cca6dbd7c69f6afef9af550ed90">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\instant-run_52a903c5e40f2553e2aaad0f4b819bf1f61dbcf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.5.0_def2746763cff1260834b8512361a858f202522e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_3ecd31096a0ff073b92958231e0a2ea996850b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_fd0cf53abb94278dbd98e6ce5141992869977e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmitriy\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.5_339ee1dfb2c1943b20925f91d9d25f85d0aa3e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_5aaf378309cbfb2e5b840ff106efafcda03846a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-10.0.1_5fb490e0b295b9c162469879407dde4b239c9b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_b0cacd163f629b26adc9b1aeab0050033931165e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-10.0.1_91b73a5334c5d1d8b79e7ccb982a836ca465e6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_317fa91256fe97422a4527e3a12292c208211ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_839ec01745261d8d493d67192b3ca091b130327e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-10.0.1_7e8bb50e779b13820f9b6571d44c9cec5b6a870e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_d294f1f49843e726a8b382582d346e31685da8b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmitriy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0_67f7dc7d9c4cea689a18b1eaccf34275fc068eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_a942ae817a07a5422de7ed80ad469126827c0bed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_91b73a5334c5d1d8b79e7ccb982a836ca465e6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-10.0.1_004f23107e0ed7d1fcfce216a9d5a645b663a4d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_ad002622df04b81c2ced49d602b01cec06f35a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_c5df6c041abdf60552a7ff51c96274364acfe752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-24.1.1_2c6cb28868c1369ca64e1e18ea14406f56a2ea1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_282d90ccaa8b8180861df40d8509db901a1eade6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\libs\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\jsoup-1.10.1_fefb20d685a6c1eac82be3f640ad85eb1c76995f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.1.1_3ccf4486985a1bb0284335efe1aa508e2be3b7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.4.4_7be0f1db21f169aea9f335f06b9245fe6df4a447.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.1.1_87166986efa9a2aa475467f29554500edbcb405f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_c61e8eb9debf7b078d4154d0d8b53a108735784d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Android\AndroidStudioProjects\appip\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-10.0.1_fd0cf53abb94278dbd98e6ce5141992869977e6c.jar" />
+    </item>
+
+</items>

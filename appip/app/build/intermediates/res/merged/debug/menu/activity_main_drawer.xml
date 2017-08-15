@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+    <item
+        android:id="@+id/nav_mainpage"
+        android:icon="@drawable/dmainpage"
+        android:title="HOME PAGE" />
+    <item
+        android:id="@+id/nav_interestplaces"
+        android:icon="@drawable/find"
+        android:title="ALL PLACES" />
+    <item
+        android:id="@+id/nav_mustsee"
+        android:icon="@drawable/must_see"
+        android:title="MUST SEE PLACES" />
+    <item
+        android:id="@+id/nav_savedplaces"
+        android:icon="@drawable/save"
+        android:title="SAVED PLACES" />
+    <item
+        android:id="@+id/nav_randomplace"
+        android:icon="@drawable/random"
+        android:title="RANDOM PLACE" />
+    </group>
+    <group android:id="@+id/group2">
+    <item
+        android:id="@+id/nav_request"
+        android:icon="@drawable/request"
+        android:title="REQUEST TO ADD A PLACE" />
+
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/drate"
+        android:title="RATE THIS APP" />
+
+    <item
+        android:id="@+id/nav_paid"
+        android:icon="@drawable/paid"
+        android:title="REMOVE ADS" />
+    </group>
+    <group android:id="@+id/group3">
+    <item
+        android:id="@+id/nav_flights"
+        android:icon="@drawable/dairplane"
+        android:title="FIND FLIGHT TICKETS" />
+    <item
+        android:id="@+id/nav_hotels"
+        android:icon="@drawable/dairhotel"
+        android:title="FIND HOTELS" />
+    </group>
+    <group android:id="@+id/group4">
+    <item
+        android:id="@+id/nav_quit"
+        android:icon="@drawable/mback"
+        android:title="QUIT" />
+    </group>
+</menu>

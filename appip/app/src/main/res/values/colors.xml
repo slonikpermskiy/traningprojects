@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00000000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0b0a0a</color>
+    <color name="colorBlack">#0a0909</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="dialog_button_text">#006df0</color>
+    <color name="blue">#016CF0</color>
+    <color name="grey">#63686e</color>
+    <color name="colorDivider">#37a4c4e2</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="cardbackground">#64181815</color>
+    <color name="colortoggle">#42999998</color>
+    <color name="maincard">#ffffff</color>
+    <color name="mainletters">#0e396b</color>
+    <color name="navtextcol">#494b4d</color>
+    <color name="navdrawscrim">#a1d6ed</color>
+</resources>

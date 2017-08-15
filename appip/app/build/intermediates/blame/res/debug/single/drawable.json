@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mback.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\mback.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addsign.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\addsign.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paid.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\paid.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\request.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\request.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeb.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\placeb.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\headphones.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\headphones.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eyeb.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\eyeb.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_toggle_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\radio_toggle_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bus.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\col.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\col.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\must_see.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\must_see.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\find.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flashb.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\flashb.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mystar.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\mystar.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stopbut.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\stopbut.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_gradient.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\line_gradient.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dairplane.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\dairplane.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waiting.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\waiting.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overflow.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\overflow.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\random.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\random.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dmainpage.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\dmainpage.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drate.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\drate.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\address.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\address.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backblue.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\backblue.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bin.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\bin.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_toggle.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\layout_toggle.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exp.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\exp.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_photo.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\no_photo.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dairhotel.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\dairhotel.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\randb.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\randb.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background1.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\background1.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobatton_shape.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\radiobatton_shape.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dollar.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\dollar.png"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\appip\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yandex.png",
+        "source": "C:\\Android\\AndroidStudioProjects\\appip\\app\\src\\main\\res\\drawable\\yandex.png"
+    }
+]
