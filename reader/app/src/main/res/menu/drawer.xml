@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_mainpage"
+            android:icon="@drawable/dmainpage"
+            android:title="ВСЕ КНИГИ" />
+        <item
+            android:id="@+id/nav_likebooks"
+            android:icon="@drawable/drate"
+            android:title="ЛЮБИМЫЕ КНИГИ" />
+    </group>
+
+    <group android:id="@+id/group4">
+        <item
+            android:id="@+id/nav_quit"
+            android:icon="@drawable/mback"
+            android:title="ВЫХОД" />
+    </group>
+</menu>

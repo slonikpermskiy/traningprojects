@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d50661</color>
+    <color name="colorPrimaryDark">#960442</color>
+    <color name="colorAccent">#0b0a0a</color>
+    <color name="FloatingButton">#2efff9</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="cardbackground">#64181815</color>
+    <color name="colortoggle">#42999998</color>
+</resources>
