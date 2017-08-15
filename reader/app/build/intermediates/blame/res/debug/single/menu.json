@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\reader\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\reader\\app\\src\\main\\res\\menu\\action_bar.xml"
+    }
+]

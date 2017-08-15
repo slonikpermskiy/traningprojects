@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c783dba9253842029ff9ace4076e82f65ff8c80d">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7aa867e4914dd6c97990b5a2e0070139bc805654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_f59f644f3dd61bd6cdd0d305191db39d16acc8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_3a6a39b84ea5306c91694c651214207c2f071ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\com.android.support-design-24.1.1_791716369a8d28f6c51a8293f6b8969b173b0953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86ea86a44d7ecfa7c0729d0934bb4e0a3a4f1eff">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\instant-run_3269ffb5a22aeeababee2855d6442cfea49e0ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\internal_impl-24.1.1_7c5b8c5e1e95f5b9bbf3e10d6ee773431d644bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_2e1a4ff7a804a07161d7727278be06492d9770ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.1.1_3a6a39b84ea5306c91694c651214207c2f071ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.1.1_2e1a4ff7a804a07161d7727278be06492d9770ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\support-annotations-24.1.1_094d634603cfbcbfa7291b5e459ff765ff06345b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_6a3157960616678c7d5c5b41c63a038734647ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.1.1_f59f644f3dd61bd6cdd0d305191db39d16acc8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_7b2f30caac36b4399589ffa7160c41d898493efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_7c5b8c5e1e95f5b9bbf3e10d6ee773431d644bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.1.1_6a3157960616678c7d5c5b41c63a038734647ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\libs\jsoup-1.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\jsoup-1.10.1_19d040b735f4de00ebd91e9d4ce0426bafe79864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.1.1_7b2f30caac36b4399589ffa7160c41d898493efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_791716369a8d28f6c51a8293f6b8969b173b0953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidStudioProjects\reader\app\libs\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Android\AndroidStudioProjects\reader\app\build\intermediates\pre-dexed\debug\jsoup-1.10.1_19d040b735f4de00ebd91e9d4ce0426bafe79864.jar" />
+    </item>
+
+</items>
